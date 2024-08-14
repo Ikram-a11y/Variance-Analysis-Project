@@ -12,6 +12,9 @@ Key Features
 Steps Involved
 
 1- Data Exploration: Initial exploration and visualization of the dataset to understand the distribution of price across different categories.
+
 2- ANOVA Analysis: Implementation of ANOVA to test for significant differences in mean prices across different categories.
+
 3- Post-Hoc Testing: Additional testing to pinpoint the specific categories that differ.
+
 4- Visualization: Graphical representation of results to provide a clear understanding of how different features affect diamond prices.
